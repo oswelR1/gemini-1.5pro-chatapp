@@ -29,10 +29,11 @@ npm install
 
 ## Usage
 
-1. Start the development server:
+1. Start the development server
 
   npm run dev
 
+2. Setup your gemini api key
 
 ## Acknowledgements
 
