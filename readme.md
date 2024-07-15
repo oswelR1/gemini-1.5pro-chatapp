@@ -10,7 +10,7 @@ Gemini Chat App is an interactive chatbot application that leverages the capabil
 
 - Real-time chat interface
 - AI-powered responses using Gemini
-- [Add more features specific to your app]
+
 
 ## Installation
 
